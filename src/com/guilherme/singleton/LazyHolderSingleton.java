@@ -2,6 +2,9 @@ package com.guilherme.singleton;
 
 /***
  * Singleton "Lazy Holder"
+ *
+ * @see <a href="http://stackoverflow.com/a/24018148">Reference</a>
+ *
  * @author guilherme
  */
 
