@@ -1,7 +1,14 @@
-package com.guilherme.singleton;
+package com.guilherme;
+
+import com.guilherme.singleton.EagerSingleton;
+import com.guilherme.singleton.LazyHolderSingleton;
+import com.guilherme.singleton.LazySingleton;
+import com.guilherme.strategy.*;
 
 public class Test {
     public static void main(String[] args) {
+
+        // Singleton
 
         // Lazy Singleton Pattern Test
         LazySingleton lazySingleton = LazySingleton.getInstance();
@@ -21,8 +28,22 @@ public class Test {
         lazyHolderSingleton = LazyHolderSingleton.getInstance();
         System.out.println(lazyHolderSingleton);
 
+        // Strategy
 
+        Behavior defaultBehavior = new DefaultBehavior();
+        Behavior aggressiveBehavior = new AggressiveBehavior();
+        Behavior defensiveBehavior = new DefensiveBehavior();
 
+        Boot boot = new Boot();
+
+        boot.setBehavior(defaultBehavior);
+        boot.move();
+
+        boot.setBehavior(aggressiveBehavior);
+        boot.move();
+
+        boot.setBehavior(defensiveBehavior);
+        boot.move();
 
     }
 }
