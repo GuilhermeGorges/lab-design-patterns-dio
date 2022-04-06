@@ -2,7 +2,7 @@ package com.guilherme.strategy;
 
 /***
  * Strategy: Default
- * @author guilherme
+ * @author Guilherme
  */
 public class DefaultBehavior implements Behavior {
 

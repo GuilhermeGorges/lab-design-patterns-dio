@@ -2,7 +2,7 @@ package com.guilherme.strategy;
 
 /***
  * Strategy
- * @author guilherme
+ * @author Guilherme
  */
 public interface Behavior {
     void move();

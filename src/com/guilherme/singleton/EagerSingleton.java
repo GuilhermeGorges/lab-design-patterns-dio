@@ -2,7 +2,7 @@ package com.guilherme.singleton;
 
 /***
  * Singleton "Eager"
- * @author guilherme
+ * @author Guilherme
  */
 
 public class EagerSingleton {

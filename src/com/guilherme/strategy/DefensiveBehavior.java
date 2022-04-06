@@ -2,7 +2,7 @@ package com.guilherme.strategy;
 
 /***
  * Strategy: Defensive
- * @author guilherme
+ * @author Guilherme
  */
 public class DefensiveBehavior implements Behavior {
 

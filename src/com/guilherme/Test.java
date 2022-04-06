@@ -1,5 +1,6 @@
 package com.guilherme;
 
+import com.guilherme.facade.facade.Facade;
 import com.guilherme.singleton.EagerSingleton;
 import com.guilherme.singleton.LazyHolderSingleton;
 import com.guilherme.singleton.LazySingleton;
@@ -44,6 +45,11 @@ public class Test {
 
         boot.setBehavior(defensiveBehavior);
         boot.move();
+
+        // Facade
+
+        Facade facade = new Facade();
+        facade.migrateClient("Guilherme", "Gabriel");
 
     }
 }

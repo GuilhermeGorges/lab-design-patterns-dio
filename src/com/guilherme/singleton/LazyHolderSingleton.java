@@ -5,7 +5,7 @@ package com.guilherme.singleton;
  *
  * @see <a href="http://stackoverflow.com/a/24018148">Reference</a>
  *
- * @author guilherme
+ * @author Guilherme
  */
 
 public class LazyHolderSingleton {

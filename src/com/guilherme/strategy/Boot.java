@@ -2,7 +2,7 @@ package com.guilherme.strategy;
 
 /***
  * Strategy: Test
- * @author guilherme
+ * @author Guilherme
  */
 public class Boot {
 
