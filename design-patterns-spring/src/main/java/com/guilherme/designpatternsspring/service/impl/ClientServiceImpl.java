@@ -2,7 +2,9 @@ package com.guilherme.designpatternsspring.service.impl;
 
 import com.guilherme.designpatternsspring.model.Client;
 import com.guilherme.designpatternsspring.service.ClientService;
+import org.springframework.stereotype.Service;
 
+@Service
 public class ClientServiceImpl  implements ClientService {
 
     // TODO Singleton: Injetar os componentes do Spring com @Autowired.
