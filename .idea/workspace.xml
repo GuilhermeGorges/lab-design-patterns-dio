@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e1ff4a-9ed0-4872-a642-d8378a4868be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-design-patterns-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab-design-patterns-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/facade/facade/Facade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/facade/subsystemcep/CepAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/facade/subsystemcrm/CrmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/singleton/EagerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/singleton/LazyHolderSingleton$InstanceHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/singleton/LazyHolderSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/singleton/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/strategy/AggressiveBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/strategy/Behavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/strategy/Boot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/strategy/DefaultBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab-design-patterns-java/com/guilherme/strategy/DefensiveBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/facade/facade/Facade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/facade/subsystemcep/CepAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/facade/subsystemcrm/CrmService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/singleton/EagerSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/singleton/LazyHolderSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/singleton/LazySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/strategy/AggressiveBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/strategy/Behavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/strategy/Boot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/strategy/DefaultBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/guilherme/strategy/DefensiveBehavior.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27cBW9VaF3ba5oiHpWsTvL32JKH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e1ff4a-9ed0-4872-a642-d8378a4868be" name="Changes" comment="" />
+      <created>1649609544692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649609544692</updated>
+    </task>
+    <servers />
+  </component>
+</project>
